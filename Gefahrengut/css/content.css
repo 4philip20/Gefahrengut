@@ -1,0 +1,18 @@
+body
+{
+ font-family: arial; 
+ font-size: 11px;
+ background: #b8b8b8 url(../020_media/bg_verlauf2.png) 0 0 repeat-x;
+}
+#div_select_lang a
+{
+ text-decoration: none;
+ color: #666666;
+}
+h3
+{
+	font-family: verdana;
+	font-size: 9pt;
+	margin-top: 0pt;
+	margin-bottom: 2pt;
+}
